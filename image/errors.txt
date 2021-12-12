@@ -1,0 +1,1 @@
+[2021-12-12 11:35:08] layer "COMPUTER / OK.png": Filename begins with whitespace
